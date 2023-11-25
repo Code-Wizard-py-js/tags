@@ -1,0 +1,72 @@
+[
+  {
+    "name": "v1.2.4",
+    "zipball_url": "https://api.github.com/repos/MatrixTM/OutlookGen/zipball/refs/tags/v1.2.4",
+    "tarball_url": "https://api.github.com/repos/MatrixTM/OutlookGen/tarball/refs/tags/v1.2.4",
+    "commit": {
+      "sha": "1f806f6915df1a566a9acf1c7449ac0ef50a058c",
+      "url": "https://api.github.com/repos/MatrixTM/OutlookGen/commits/1f806f6915df1a566a9acf1c7449ac0ef50a058c"
+    },
+    "node_id": "REF_kwDOIFQ-mrByZWZzL3RhZ3MvdjEuMi40"
+  },
+  {
+    "name": "v1.2.3",
+    "zipball_url": "https://api.github.com/repos/MatrixTM/OutlookGen/zipball/refs/tags/v1.2.3",
+    "tarball_url": "https://api.github.com/repos/MatrixTM/OutlookGen/tarball/refs/tags/v1.2.3",
+    "commit": {
+      "sha": "8fbeccbf8e49c07d09b59d4c49559f4eea310976",
+      "url": "https://api.github.com/repos/MatrixTM/OutlookGen/commits/8fbeccbf8e49c07d09b59d4c49559f4eea310976"
+    },
+    "node_id": "REF_kwDOIFQ-mrByZWZzL3RhZ3MvdjEuMi4z"
+  },
+  {
+    "name": "v1.2.2",
+    "zipball_url": "https://api.github.com/repos/MatrixTM/OutlookGen/zipball/refs/tags/v1.2.2",
+    "tarball_url": "https://api.github.com/repos/MatrixTM/OutlookGen/tarball/refs/tags/v1.2.2",
+    "commit": {
+      "sha": "477ea16186d172b140656bfc0c5785aa5f9c0cad",
+      "url": "https://api.github.com/repos/MatrixTM/OutlookGen/commits/477ea16186d172b140656bfc0c5785aa5f9c0cad"
+    },
+    "node_id": "REF_kwDOIFQ-mrByZWZzL3RhZ3MvdjEuMi4y"
+  },
+  {
+    "name": "v1.2.1",
+    "zipball_url": "https://api.github.com/repos/MatrixTM/OutlookGen/zipball/refs/tags/v1.2.1",
+    "tarball_url": "https://api.github.com/repos/MatrixTM/OutlookGen/tarball/refs/tags/v1.2.1",
+    "commit": {
+      "sha": "412fdfbd544983160263d9564b18f68068519005",
+      "url": "https://api.github.com/repos/MatrixTM/OutlookGen/commits/412fdfbd544983160263d9564b18f68068519005"
+    },
+    "node_id": "REF_kwDOIFQ-mrByZWZzL3RhZ3MvdjEuMi4x"
+  },
+  {
+    "name": "v1.2",
+    "zipball_url": "https://api.github.com/repos/MatrixTM/OutlookGen/zipball/refs/tags/v1.2",
+    "tarball_url": "https://api.github.com/repos/MatrixTM/OutlookGen/tarball/refs/tags/v1.2",
+    "commit": {
+      "sha": "023d515c395609d0c34bbb393340a4648e4533d5",
+      "url": "https://api.github.com/repos/MatrixTM/OutlookGen/commits/023d515c395609d0c34bbb393340a4648e4533d5"
+    },
+    "node_id": "REF_kwDOIFQ-mq5yZWZzL3RhZ3MvdjEuMg"
+  },
+  {
+    "name": "v1.1",
+    "zipball_url": "https://api.github.com/repos/MatrixTM/OutlookGen/zipball/refs/tags/v1.1",
+    "tarball_url": "https://api.github.com/repos/MatrixTM/OutlookGen/tarball/refs/tags/v1.1",
+    "commit": {
+      "sha": "c960be3477c24f1e7b4f58e10ff879114b4d98c4",
+      "url": "https://api.github.com/repos/MatrixTM/OutlookGen/commits/c960be3477c24f1e7b4f58e10ff879114b4d98c4"
+    },
+    "node_id": "REF_kwDOIFQ-mq5yZWZzL3RhZ3MvdjEuMQ"
+  },
+  {
+    "name": "v1.0",
+    "zipball_url": "https://api.github.com/repos/MatrixTM/OutlookGen/zipball/refs/tags/v1.0",
+    "tarball_url": "https://api.github.com/repos/MatrixTM/OutlookGen/tarball/refs/tags/v1.0",
+    "commit": {
+      "sha": "8c1988c5a265dfda1ec919acfe649284ce66bf03",
+      "url": "https://api.github.com/repos/MatrixTM/OutlookGen/commits/8c1988c5a265dfda1ec919acfe649284ce66bf03"
+    },
+    "node_id": "REF_kwDOIFQ-mq5yZWZzL3RhZ3MvdjEuMA"
+  }
+]
